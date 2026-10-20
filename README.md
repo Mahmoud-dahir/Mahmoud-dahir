@@ -1,16 +1,22 @@
-## Hi there 👋
+# Salut, moi c'est Mahmoud 👋
 
-<!--
-**Mahmoud-dahir/Mahmoud-dahir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Étudiant en **Master 2 Informatique - Intelligence Artificielle** à l'Université Claude Bernard Lyon 1.  
+À la recherche d'un **stage de fin d'études de 6 mois en IA / Data Science / Machine Learning** (début 2027).
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Stack & Compétences
+- **IA & Machine Learning :** PyTorch, TensorFlow, Graph Neural Networks (GNN/VGAE), Scikit-Learn, Pandas, NumPy
+- **Développement Full-Stack :** Python (Django / DRF), JavaScript/TypeScript (Next.js, React)
+- **Outils & Qualité :** Git/GitHub, Docker, Linux (Ubuntu), CI/CD, SonarQube
+
+---
+
+### 📂 Projets phares
+- 🧠 **[gnn-link-prediction](https://github.com/Mahmoud-dahir/gnn-link-prediction)** : Prédiction de liens sur réseau aéroportuaire à l'aide de GNN et Variational Graph Autoencoders (PyTorch).
+- 🎬 **[charity-cinema-platform](https://github.com/Mahmoud-dahir/charity-cinema-platform)** : Application web caritative complète (API Django REST, Frontend Next.js, CI/CD, SonarQube).
+
+---
+
+### 📫 Me contacter
+- **LinkedIn :** www.linkedin.com/in/mahmoud-dhr
