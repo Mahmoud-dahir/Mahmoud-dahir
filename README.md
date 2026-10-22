@@ -1,7 +1,7 @@
 # Salut, moi c'est Mahmoud 👋
 
 Étudiant en **Master 2 Informatique - Intelligence Artificielle** à l'Université Claude Bernard Lyon 1.  
-À la recherche d'un **stage de fin d'études de 6 mois en IA / Data Science / Machine Learning** (début 2027).
+À la recherche d'un **stage de fin d'études de 6 mois en IA / Data Science / Machine Learning** (dès février 2027).
 
 ---
 
